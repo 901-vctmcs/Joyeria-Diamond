@@ -6,5 +6,6 @@ create table CLIENTES(
     APELLIDO varchar(50) not null,
     TELEFONO varchar(15) not null,
     CORREO varchar(50) not null
+    
 );
 
